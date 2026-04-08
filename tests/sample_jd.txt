@@ -1,0 +1,13 @@
+We are looking for a Data Analyst to support business decision-making through data analysis and reporting.
+
+Responsibilities:
+- Analyze business data and generate actionable insights
+- Build dashboards and reports for stakeholders
+- Work with SQL and Python to process and clean data
+- Communicate findings clearly to cross-functional teams
+
+Requirements:
+- Familiar with SQL, Python, Excel or Tableau
+- Strong analytical thinking
+- Experience in data visualization and reporting
+- Good communication skills

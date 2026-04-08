@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    line-height: 1.5;
+    color: #222;
+}
+
+.container {
+    display: flex;
+}
+
+.left {
+    flex: 3;
+}
+
+.right {
+    flex: 1;
+    text-align: right;
+}
+
+img {
+    width: 100px;
+    border-radius: 8px;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+    margin-top: 20px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.section {
+    margin-top: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="left">
+        <h1>{{name}}</h1>
+        <p>{{contact}}</p>
+    </div>
+    <div class="right">
+        <img src="{{photo}}" />
+    </div>
+</div>
+
+<h2>Education</h2>
+<div class="section">
+{{education}}
+</div>
+
+<h2>Work Experience</h2>
+<div class="section">
+{{work}}
+</div>
+
+<h2>Projects</h2>
+<div class="section">
+{{projects}}
+</div>
+
+<h2>Skills</h2>
+<div class="section">
+{{skills}}
+</div>
+
+<h2>Summary</h2>
+<div class="section">
+{{summary}}
+</div>
+
+</body>
+</html>

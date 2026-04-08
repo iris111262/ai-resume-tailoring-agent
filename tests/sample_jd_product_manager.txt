@@ -1,0 +1,15 @@
+We are seeking a Product Manager to drive product strategy and execution for our data analytics platform.
+
+Responsibilities:
+- Define product roadmap and prioritize features based on user needs and business goals
+- Collaborate with engineering, design, and data teams to deliver high-quality products
+- Analyze user feedback and market trends to identify opportunities
+- Create product requirements and manage the development lifecycle
+- Measure product performance and iterate based on data insights
+
+Requirements:
+- Experience in product management, preferably in data/analytics products
+- Strong analytical skills with ability to work with data
+- Excellent communication and stakeholder management skills
+- Familiarity with agile development methodologies
+- Background in data analysis or business intelligence is a plus

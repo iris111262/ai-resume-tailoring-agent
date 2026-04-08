@@ -1,0 +1,30 @@
+Generate a resume tailored to the job.
+
+Role: {role}
+Key Skills: {skills}
+Focus Areas: {focus}
+Role Guidance: {role_guidance}
+
+Requirements:
+- Treat the JD as the source of truth for the target role.
+- Write the resume toward the actual job requirements in the JD, even if the candidate's background is broader.
+- If the JD role is project manager, product manager, analyst, engineer, or another role, the resume wording should follow that role directly.
+- Prioritize relevant skills
+- Highlight matching experience
+- Reframe existing experience toward the JD's required traits, responsibilities, and deliverables.
+- Use concise bullet points
+- Do not fabricate
+- Do not label a project as a course project, internship project, or academic project unless that label is explicitly present in the provided input.
+- No Markdown headings using `#`
+- Output only the final resume
+
+{language_instruction}
+
+Resume rules:
+{rules_text}
+
+JD:
+{jd_text}
+
+Input:
+{payload_json}

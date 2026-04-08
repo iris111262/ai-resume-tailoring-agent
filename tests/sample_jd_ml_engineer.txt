@@ -1,0 +1,15 @@
+We are hiring a Machine Learning Engineer to develop and deploy ML models for our recommendation system.
+
+Responsibilities:
+- Design and implement machine learning models for personalized recommendations
+- Work with large-scale data processing and feature engineering
+- Optimize model performance and scalability
+- Collaborate with data scientists and engineers
+- Deploy and monitor ML models in production
+
+Requirements:
+- Master's degree in Computer Science, Statistics, or related field
+- Strong programming skills in Python and experience with ML frameworks
+- Experience with big data technologies (Spark, Hadoop)
+- Knowledge of deep learning and NLP techniques
+- Experience with model deployment and MLOps

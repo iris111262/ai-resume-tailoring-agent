@@ -1,0 +1,15 @@
+{
+  "max_bullets_per_project": 3,
+  "tone": "professional, concise, ATS-friendly",
+  "require_language_choice_before_generation": true,
+  "supported_languages": ["Chinese", "English"],
+  "rules": [
+    "Do not invent any experience or achievement.",
+    "Only use information from the candidate profile and project bank.",
+    "Select the most relevant projects based on the job description.",
+    "Keep the resume concise and targeted.",
+    "Emphasize business impact and relevant technical skills.",
+    "Follow the role name and requirements in the JD directly; do not drift into another role style.",
+    "Prefer one-page style output."
+  ]
+}

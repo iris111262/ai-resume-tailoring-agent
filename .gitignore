@@ -1,0 +1,13 @@
+.env
+outputs/
+inputs/jd.txt
+data/profile.json
+data/master_profile.json
+data/project_bank.json
+image.png
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+venv/
+wkhtmltopdf.pkg

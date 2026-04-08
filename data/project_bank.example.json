@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Project A",
+    "role_tags": ["data_analyst", "business_analyst"],
+    "priority": 5,
+    "cn_title": "项目A",
+    "en_title": "Project A",
+    "cn_bullets": [
+      "写与你目标岗位相关的项目背景",
+      "写你用了什么方法、工具或流程",
+      "写这个项目带来了什么结果或价值"
+    ],
+    "en_bullets": [
+      "Describe the project context relevant to your target roles",
+      "Describe the methods, tools, or workflow you used",
+      "Describe the impact or result of the project"
+    ]
+  },
+  {
+    "name": "Project B",
+    "role_tags": ["data_engineer", "ml_engineer", "ai_app_engineer"],
+    "priority": 4,
+    "cn_title": "项目B",
+    "en_title": "Project B",
+    "cn_bullets": [
+      "写数据处理、工程实现或模型开发相关内容",
+      "写关键技术栈，例如 SQL、Python、Spark、Kafka、LLM",
+      "写业务落地效果或性能提升"
+    ],
+    "en_bullets": [
+      "Describe data engineering, implementation, or modeling work",
+      "List the key stack such as SQL, Python, Spark, Kafka, or LLMs",
+      "Describe business impact or performance improvement"
+    ]
+  }
+]
